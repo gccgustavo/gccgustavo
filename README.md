@@ -2,6 +2,8 @@ Gustavo Couto
 ----------------------
 ### Hi there 👋
 
-- 🔭 I’m currently a Full Stack Developer - Experience with Django, Python, and ReactJs
-- 🌱 I’m currently estuding for Cisco CCNA and CCNP - Security
+- 🔭 I’m currently a freelancer Pentester
+- 🌱 I’m currently estuding for DCPT, CEH, OSCP - Security Certifications 
+- 🌱 CTF Player
+-  
 
